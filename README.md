@@ -1,5 +1,14 @@
 - 👋 Hi, I’m @daniilvolk
 - 👀 I’m interested in vr, video games
-- 🌱 I’m currently learning Python
-
-
+-I am learning
+  - C++
+    - BootStrap
+      - Swift
+        -Unity
+          -C#
+-And I know
+    - Python
+      - Html
+        - CSS
+          - JS
+            -
