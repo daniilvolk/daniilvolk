@@ -5,8 +5,8 @@
 
 | Languages I know  | I'm learning |
 | ------------- | ------------- |
-|  Python       | C++           |
-|  HTML         | Swift         |
-|  CSS          | C#            |
-|  JS           | Unity         |
-| BootStrap     |
+|  Python       | MySQL         |
+|  HTML         | VUE.JS        |
+|  CSS          | React         |
+|  JS           | PHP           |
+| BootStrap     |               |
