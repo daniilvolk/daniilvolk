@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @daniilvolk
-- 👀 I’m interested in vr, video games
+- 👋 Hi, I'm @daniilvolk.
+- 👀 I'm interested in vr, video games, developing.
+- ䷴ I'm junior front-end developer.
+- 🧘 I love coding it's makes me relax. 
 
 
-
-| Languages I know  | I'm learning |
-| ------------- | ------------- |
-|  Python       | MySQL         |
+| Languages I know  | I want to learn | I'm learning |
+| ------------- | ------------- | ------------- |
+|  Python       | MySQL         |     React     |
 |  HTML         | VUE.JS        |
-|  CSS          | React         |
-|  JS           | PHP           |
-| BootStrap     |               |
+|  CSS          | PHP           |
+|  JS           |               |
+|  BootStrap    |               |
