@@ -6,8 +6,9 @@
 
 | Languages I know  | I want to learn | I'm learning |
 | ------------- | ------------- | ------------- |
-|  Python       | MySQL         |     React     |
-|  HTML         | VUE.JS        |
-|  CSS          | PHP           |
-|  JS           |               |
-|  BootStrap    |               |
+|  Python       | MySQL         |     Swift     |
+|  HTML         | VUE.JS        |               |
+|  CSS          | C++           |               |
+|  JS           |               |               |   
+|  BootStrap    |               |               |
+|  PHP          |               |               |
