@@ -9,6 +9,6 @@
 |  Python       | MySQL         |     Swift     |
 |  HTML         | VUE.JS        |               |
 |  CSS          | C++           |               |
-|  JS           |               |               |   
+|  JS           | PHP           |               |   
 |  BootStrap    |               |               |
-|  PHP          |               |               |
+|               |               |               |
